@@ -1,0 +1,44 @@
+HasSafetyRec - bool
+AmateurBuilt - bool
+
+
+HighestInjuryLevel - Combine w/ InjuryCounts
+FatalInjuryCount
+SeriousInjuryCount
+MinorInjuryCount
+OnboardInjuryCount
+
+Take some considerations:
+Model
+Make
+AirportID
+
+
+Good to run blind:
+EventType
+Mode
+AirCraftCategory
+EngineType
+PurposeOfFlight
+FAR
+AirCraftDamage
+WeatherCondition
+BroadPhaseofFlight
+ReportStatus
+MostRecentReportType
+
+NumberOfEngines - Normalize
+
+EventDate - Combine w/ originalpublisheddate for distance
+OriginalPublishedDate - Combine w/ EventDate
+____________________________________________________________
+
+
+
+
+
+
+
+
+
+
